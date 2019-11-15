@@ -6,13 +6,13 @@
 
 ##### - Standardization
 
-##### - Rare Value Encoding
+##### - Engineering Rare Values
 
 ##### - One Hot Encoding
 
 ##### - Frequency based Encoding
 
-##### - Mean Encoding
+##### - Outlier Treatment
 
 ##### - Scaling
 
